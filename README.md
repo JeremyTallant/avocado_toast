@@ -1,2 +1,3 @@
-# avocado_toast
-Conducting a supply chain analysis of the ingredients used in an avocado toast, utilizing the Open Food Facts database to gain an in-depth understanding of the complex supply chain involved in producing a single dish.
+# What's in an Avocado Toast: A Supply Chain Analysis
+## Description
+What's in an avocado toast? Avocado toast has soared in popularity on breakfast menus since the 2010s. Although the most basic avocado toast recipe contains very few ingredients, it's no small feat that most of these ingredients are readily available in grocery stores. In this project, we'll conduct a supply chain analysis of the ingredients used in an avocado toast, utilizing the [Open Food Facts database](https://world.openfoodfacts.org/). This database contains extensive, openly-sourced information on various foods, including their origins. Through this analysis, we will gain an in-depth understanding of the complex supply chain involved in producing a single dish.
